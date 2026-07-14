@@ -1,0 +1,85 @@
+/*기본 스타일시트*/
+p {
+  font-size: 1em;
+  line-height: 180%;
+  text-indent: 0.9em;
+  display: block;
+  margin-bottom: 0.6em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  margin-top: 0.6em;
+}
+h1 {
+  font-size: 1.2em;
+  text-indent: 0;
+  text-align: center;
+}
+h2 {
+  font-size: 1em;
+  text-indent: 0;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.fb {
+  font-size: 1em;
+  color: #7f7f7f;
+  font-style: italic;
+  text-align: justify;
+  line-height: 1.7em;
+  text-indent: 0.8em;
+  margin-bottom: 0.7em;
+}
+.f {
+  font-size: 1em;
+  color: #7f7f7f;
+  line-height: 180%;
+  text-indent: 0.9em;
+  display: block;
+  margin-bottom: 0.6em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  margin-top: 0.6em;
+}
+.b {
+  font-size: 1em;
+  font-weight:bold;
+  line-height: 180%;
+  text-indent: 0.9em;
+  display: block;
+  margin-bottom: 0.6em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  margin-top: 0.6em;
+}  
+
+.i {
+  font-size: 1em;
+  font-style: italic;
+  line-height: 180%;
+  text-indent: 0.9em;
+  display: block;
+  margin-bottom: 0.6em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  margin-top: 0.6em;
+}  
+
+.ib {
+  font-size: 1em;
+  font-style: italic;
+  font-weight:bold;
+  line-height: 180%;
+  text-indent: 0.9em;
+  display: block;
+  margin-bottom: 0.6em;
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+  margin-top: 0.6em;
+}
+
+
+
